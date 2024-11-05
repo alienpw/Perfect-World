@@ -1,0 +1,39 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.out
+*.app
+
+"Source Servidor/cgame/gs/gs"
+"Source Servidor/cnet/gfaction/gfactiond"
+"Source Servidor/cnet/uniquenamed/uniquenamed"
+"Source Servidor/cnet/gamedbd/gamedbd"
+"Source Servidor/cnet/gdeliveryd/gdeliveryd"
+"Source Servidor/cnet/glinkd/glinkd"
+"Source Servidor/cnet/gacd/gacd"
+"Source Servidor/cnet/logservice/logservice"
